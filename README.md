@@ -1,1 +1,1 @@
-# office-syndrome-for-raspberry-pi
+# office-syndrome
